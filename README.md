@@ -29,3 +29,5 @@ This project is FUD on the day of release (September 2021). A crypter that is fr
 Rather, PEunion offers a fully functional implementation that is easy to modify and extend. If you want PEunion to be FUD, please get familiar with the code of the stub and adjust it until you are satisfied with the result.
 
 However, additional evasion techniques may be implemented in future releases to improve the baseline design.
+
+I do not take any responsibility for anybody who uses PEunion in illegal malware campaigns. This is an educational project.
