@@ -24,7 +24,7 @@ In order to use this program, you should:
 
 ## FUD
 
-This project is FUD on the day of release (September 2021). A crypter that is free, publicly available, and open source will not remain undetected for a long time. Adjusting the stub so it does not get detected is a daunting task and all efforts are in vain several days later. Therefore, there will be **no updates** to fix detection issues.
+This project is FUD on the day of release (March 2025). A crypter that is free, publicly available, and open source will not remain undetected for a long time. Adjusting the stub so it does not get detected is a daunting task and all efforts are in vain several days later. Therefore, there will be **no updates** to fix detection issues.
 
 Rather, PEunion offers a fully functional implementation that is easy to modify and extend. If you want PEunion to be FUD, please get familiar with the code of the stub and adjust it until you are satisfied with the result.
 
